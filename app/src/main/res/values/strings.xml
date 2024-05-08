@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Bhukkad</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="login_string">LOGIN</string>
+    <string name="login_to_continue_string">Login to continue  </string>
+    <string name="enter_your_e_mail_id_string">Enter your E-mail ID</string>
+    <string name="enter_your_name_string">Enter your name </string>
+    <string name="email_id_string">Email id</string>
+    <string name="name_string">Name</string>
+    <string name="enter_your_password_string">Enter your password</string>
+    <string name="enter_your_10_digit_phone_number_string">Enter your 10-digit phone number</string>
+    <string name="password_ek1_string">Password</string>
+    <string name="phone_number_string">Phone Number</string>
+    <string name="welocme_string">WELCOME </string>
+    <string name="login_ek1_string">Login</string>
+    <string name="logo_1">logo_1</string>
+    <string name="login">Login</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_phone">Enter your Phone</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_bhawan">Enter Bhawan</string>
+    <string name="enter_bhawan_password">Enter Bhawan Password</string>
+    <string name="enter_canteen">Enter Canteen</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
